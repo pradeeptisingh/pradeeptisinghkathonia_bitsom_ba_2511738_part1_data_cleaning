@@ -119,5 +119,5 @@ The retail company exported order-level sales data from multiple internal system
 |------|-------------|
 | `raw_data_preview.png` | First 8 rows of raw dataset before cleaning |
 | `cleaned_data_preview.png` | Cleaned dataset with calculated columns and quality flags |
-| `pivot_summary_1.png` | Sales & Profit by Region bar charts |
-| `pivot_summary_2.png` | Monthly Sales & Profit trend line chart |
+| `pivot_summary_1.png` | Sales & Profit by Region |
+| `pivot_summary_2.png` | Monthly Sales & Profit |
